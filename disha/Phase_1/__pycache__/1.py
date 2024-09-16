@@ -83,11 +83,6 @@ print(np.char.upper(s1))
 print(np.char.lower(s2))
 print(np.char.split(s1))
 print(np.char.replace(s1,'Disha','Priya'))
-
-
-
-
-
 print(np.std(d))
 print(np.log(b))
 print(np.log(a))
